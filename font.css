@@ -1,0 +1,78 @@
+@font-face {
+    font-family: "ST_HUPO";
+    src: url('STHUPO.ttf');
+    /*font-weight: normal;
+    font-style: normal;*/
+}
+
+@font-face {
+    font-family: "PG_BOLD";
+    src: url('PingFang_Bold.ttf');
+    /*font-weight: normal;
+    font-style: normal;*/
+}
+
+@font-face {
+    font-family: "PG_EX_LIGHT";
+    src: url('PingFang_ExtraLight.ttf');
+    /*font-weight: normal;
+    font-style: normal;*/
+}
+
+@font-face {
+    font-family: "PG_HEAVY";
+    src: url('PingFang_Heavy.ttf');
+    /*font-weight: normal;
+    font-style: normal;*/
+}
+
+@font-face {
+    font-family: "PG_LIGHT";
+    src: url('PingFang_Light.ttf');
+    /*font-weight: normal;
+    font-style: normal;*/
+}
+
+@font-face {
+    font-family: "PG_MEDIUM";
+    src: url('PingFang_Medium.ttf');
+    /*font-weight: normal;
+    font-style: normal;*/
+}
+
+@font-face {
+    font-family: "PG_REGULAR";
+    src: url('PingFang_Regular.ttf');
+    /*font-weight: normal;
+    font-style: normal;*/
+}
+
+#h {
+    font-family: 'PG_BOLD';
+    font-size: 24px;
+}
+
+.left_bold {
+    font-family: 'PG_BOLD';
+    font-size: 20px;
+}
+
+.right_medium {
+    font-family: 'PG_MEDIUM';
+    font-size: 20px;
+}
+
+.detail-title {
+    font-family: 'PG_HEAVY';
+    font-size: 20px;
+}
+
+.time {
+    font-family: 'PG_REGULAR';
+    font-size: 14px;
+}
+
+.title {
+    font-family: 'ST_HUPO';
+    font-size: 15px;
+}
